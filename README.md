@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xosaad
-- 👀 I’m interested in all things computers
+- 👀 I’m interested in full-stack web & app development
 - 🌱 I’m currently learning JavaScript, React & headless CMS softwares.
 - 💞️ I’m looking to collaborate on intermediate projects 
 - 📫 How to reach me: saadbizness@gmail.com
