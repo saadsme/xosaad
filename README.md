@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xosaad
+- 👋 Hi, I’m Saad
 - 👀 I’m interested in full-stack web & app development
 - 🌱 I’m currently learning JavaScript, React & headless CMS softwares.
 - 💞️ I’m looking to collaborate on intermediate projects 
