@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Saad
 - 👀 I’m interested in full-stack web & app development
-- 🌱 I’m currently learning JavaScript, React & headless CMS softwares.
-- 💞️ I’m looking to collaborate on intermediate projects 
-- 📫 How to reach me: saadcodes.js@gmail.com
+- 🌱 I’m currently ThreeJS and WebGL.
+- 💞️ I’m looking to collaborate on high performance Next.js Apps. 
+- 📫 How to reach me: mail@aasaad.me
 
 <!---
 xosaad/xosaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
