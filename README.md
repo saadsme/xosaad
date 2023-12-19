@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saad
 - 👀 I’m interested in full-stack web & app development
-- 🌱 I’m currently ThreeJS and WebGL.
+- 🌱 I’m currently learning ThreeJS and WebGL.
 - 💞️ I’m looking to collaborate on high performance Next.js Apps. 
 - 📫 How to reach me: mail@aasaad.me
 
